@@ -76,7 +76,7 @@ Backend skills :
 
 ---
 <h2>
- :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Prefered languages and tools :
 </h2>
     
 <div>
