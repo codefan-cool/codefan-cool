@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Alina&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=David&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h3>Hello dear! 
 I have 7+ years of hands-on experience efficiently coding websites and applications using modern HTML, CSS, and JavaScript.
