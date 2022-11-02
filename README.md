@@ -6,13 +6,15 @@ I have 7+ years of hands-on experience efficiently coding websites and applicati
 Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine.
 I love flowser, music and chatting anyone new.
 Please don't hesitate to contact me, I'm really open minded and waiting for a good collaboration with anyone !  🤝 </h3>
-
+<br/><p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app?username=HashiramaDev&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+</p>
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center">Champions</h3><br/>
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=HashiramaDev&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+
+<p align="center">
+<a href="https://app.daily.dev/David Johnson"><img src="https://api.daily.dev/devcards/40da15b964fb4c5d916096b51150354f.png?r=36d" width="400" alt="David Johnson's Dev Card"/></a>
 </p>
 
 <br/><div align="center">
