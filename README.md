@@ -10,7 +10,7 @@ Please don't hesitate to contact me, I'm really open minded and waiting for a go
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"> Tech & Tools</h3><br/>
+<h3 align="center">Champions</h3><br/>
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=HashiramaDev&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
@@ -135,7 +135,7 @@ Please don't hesitate to contact me, I'm really open minded and waiting for a go
 </div>
 
 <div align="center" style="witdh:100%"> 
-<br/><h3> 👱‍♀️: Communities :</h3><br/>
+<br/><h3> 👱‍♀️: Communities</h3><br/>
 
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -150,7 +150,7 @@ Please don't hesitate to contact me, I'm really open minded and waiting for a go
 </div> 
 <div align="center" style="witdh:100%"> 
 <h3>
- :hammer_and_wrench: Prefered languages and tools :
+ :hammer_and_wrench: Prefered languages and tools
 </h3><br/><br/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -175,7 +175,7 @@ Please don't hesitate to contact me, I'm really open minded and waiting for a go
 </div> 
 <div align="center" style="witdh:100%"> 
 <h3>
- :fire: My Stats :
+ :fire: My Stats
 </h3><br/>
  </div>
 <div align="center" style="witdh:100%"> 
