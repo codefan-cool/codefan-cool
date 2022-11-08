@@ -14,8 +14,7 @@ Please don't hesitate to contact me, I'm really open minded and waiting for a go
 </div> 
 
 <p align="center">
-<a href="https://app.daily.dev/DavidJohnson">
-  <img src="https://api.daily.dev/devcards/40da15b964fb4c5d916096b51150354f.png?r=bcv" width="400" alt="David Johnson's Dev Card"/>
+<a href="https://app.daily.dev/DavidJohnson"><img src="https://api.daily.dev/devcards/40da15b964fb4c5d916096b51150354f.png?r=pvd" width="400" alt="David Johnson's Dev Card"/>
 </p>
 
 <br/><div align="center">
